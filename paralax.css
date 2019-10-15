@@ -1,0 +1,29 @@
+body{
+
+}
+.sectie{
+  padding: 20vh;
+  border-radius: 1px solid black;
+  /* background-attachment: fixed; */
+  background-size: cover;
+padding: 2em;
+
+}
+
+.sectie-achtergrond{
+  padding: 40vh 3em;
+  color: green;
+  font-size: 2em;
+  text-shadow: 0 0 14px grey;
+  overflow-x: hidden;
+}
+.sectie-2{
+  color: white;
+  background-image: url(paralex.jpg);
+}
+.sectie-4{
+  background-image: url(paralex.jpg);
+}
+.sectie6{
+  background-image: url(paralex.jpg);
+}
